@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\bin\Debug\net8.0\calcularEdad.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\bin\Debug\net8.0\calcularEdad.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\bin\Debug\net8.0\calcularEdad.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\bin\Debug\net8.0\calcularEdad.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\bin\Debug\net8.0\calcularEdad.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\refint\calcularEdad.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\calcularEdad.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\calcularEdad\calcularEdad\obj\Debug\net8.0\ref\calcularEdad.dll

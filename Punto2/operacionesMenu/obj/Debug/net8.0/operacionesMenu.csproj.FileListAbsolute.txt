@@ -1,0 +1,14 @@
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\bin\Debug\net8.0\operacionesMenu.exe
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\bin\Debug\net8.0\operacionesMenu.deps.json
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\bin\Debug\net8.0\operacionesMenu.runtimeconfig.json
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\bin\Debug\net8.0\operacionesMenu.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\bin\Debug\net8.0\operacionesMenu.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.AssemblyInfoInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.AssemblyInfo.cs
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.csproj.CoreCompileInputs.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\refint\operacionesMenu.dll
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.pdb
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\operacionesMenu.genruntimeconfig.cache
+D:\ADSO\5to trismestre\C#\Ejercicios\operacionesMenu\operacionesMenu\obj\Debug\net8.0\ref\operacionesMenu.dll
